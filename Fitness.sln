@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Fitness.Shared", "Fitness.Shared\Fitness.Shared.shproj", "{170F4C98-AA21-466E-B597-A693213E06C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Android", "Fitness.Android\Fitness.Android.csproj", "{46FB8D26-70E0-4B9A-9432-96A37A4F3D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FB8D26-70E0-4B9A-9432-96A37A4F3D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FB8D26-70E0-4B9A-9432-96A37A4F3D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FB8D26-70E0-4B9A-9432-96A37A4F3D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FB8D26-70E0-4B9A-9432-96A37A4F3D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
